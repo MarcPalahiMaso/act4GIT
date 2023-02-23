@@ -13,3 +13,12 @@ table {
   tr:nth-child(even) {
     background-color: #dddddd;
   }
+  tr:nth-child(odd) {
+    background-color: #ffffff;
+  }
+  h2 {
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+  }
+  h1 {
+    text-shadow: 2px 2px 5px rgb(255, 255, 255);
+  }
